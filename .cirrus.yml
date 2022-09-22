@@ -1,0 +1,25 @@
+container:
+  image: node:latest
+
+task:
+  matrix:
+    - name: misoka
+      script: bash asan.sh
+    - name: asnawi
+      script: bash asan.sh
+    - name: mikom
+      script: bash asan.sh
+    - name: binade
+      script: bash asan.sh 
+    - name: jedet
+      script: bash asan.sh
+    - name: tomug
+      script: bash asan.sh
+    - name: musak
+      script: bash asan.sh
+    - name: ajif
+      script: bash asan.sh
+    - name: melki
+      script: bash asan.sh
+    - name: diah
+      script: bash asan.sh
