@@ -23,3 +23,23 @@ task:
       script: bash asan.sh
     - name: diah
       script: bash asan.sh
+    - name: acen
+      script: bash asan.sh
+    - name: dawi
+      script: bash asan.sh
+    - name: munah
+      script: bash asan.sh
+    - name: ayln
+      script: bash asan.sh 
+    - name: melki
+      script: bash asan.sh
+    - name: cion
+      script: bash asan.sh
+    - name: minol
+      script: bash asan.sh
+    - name: ajud
+      script: bash asan.sh
+    - name: dulah
+      script: bash asan.sh
+    - name: abas
+      script: bash asan.sh
